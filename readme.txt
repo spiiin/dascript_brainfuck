@@ -1,3 +1,4 @@
+https://spiiin.github.io/blog/621874082/
 dascript brainfuck implementations
 
 brainfuck_0 - naive interpret
